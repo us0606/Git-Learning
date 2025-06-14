@@ -10,3 +10,16 @@ console.log("Your new Git repository is empty.");
 let e=20;
 let d=30;
 console.log(e-d);
+
+console.log("Simple HTML File");
+
+let a1=20;
+let a2=30;
+if(a1>a2)
+{
+    console.log(a1);
+}
+else
+{
+    console.log(a2);
+}
