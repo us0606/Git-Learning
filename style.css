@@ -1,3 +1,10 @@
 body{
-     background-image:  linear-gradient(to left, red , yellow);
+     background-image:  linear-gradient(to left, rgb(247, 37, 37) , rgb(240, 240, 53));
+}
+
+h1 
+{
+    color: rgb(79, 167, 243);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 60px;
 }
