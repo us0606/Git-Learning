@@ -27,3 +27,4 @@ else
 console.log("add feature");
 
 console.log("New Branch");
+console.log("add conflict");
