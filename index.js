@@ -28,3 +28,4 @@ console.log("add feature");
 
 console.log("New Branch");
 console.log("add conflict");
+console.log("add mergeconflict");
